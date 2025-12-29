@@ -1,0 +1,21 @@
+Transaction_ID,Date,Customer_ID,Product,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,Region
+1001,2024-01-15,CUST001,Laptop,Electronics,1,899.99,899.99,Credit Card,Northeast
+1002,2024-01-16,CUST002,Wireless Headphones,Electronics,2,79.99,159.98,PayPal,West
+1003,2024-01-17,CUST003,Coffee Maker,Home & Kitchen,1,49.99,49.99,Cash,Midwest
+1004,2024-01-18,CUST004,Desk Chair,Office,1,129.99,129.99,Credit Card,Northeast
+1005,2024-01-19,CUST001,Office Desk,Office,1,299.99,299.99,Credit Card,Northeast
+1006,2024-01-20,CUST005,Smartphone,Electronics,1,699.99,699.99,Credit Card,South
+1007,2024-01-21,CUST006,T-shirt,Clothing,3,19.99,59.97,PayPal,West
+1008,2024-01-22,CUST007,Blender,Home & Kitchen,1,39.99,39.99,Cash,Midwest
+1009,2024-01-23,CUST008,Running Shoes,Clothing,1,89.99,89.99,Credit Card,Northeast
+1010,2024-01-24,CUST009,Monitor,Electronics,2,199.99,399.98,Credit Card,West
+1011,2024-01-25,CUST010,Notebook Set,Office,5,12.99,64.95,Cash,South
+1012,2024-01-26,CUST003,Microwave,Home & Kitchen,1,89.99,89.99,Credit Card,Midwest
+1013,2024-01-27,CUST011,Tablet,Electronics,1,329.99,329.99,PayPal,West
+1014,2024-01-28,CUST012,Jacket,Clothing,2,59.99,119.98,Credit Card,Northeast
+1015,2024-01-29,CUST013,Desk Lamp,Office,1,24.99,24.99,Cash,Midwest
+1016,2024-01-30,CUST014,Gaming Console,Electronics,1,499.99,499.99,Credit Card,South
+1017,2024-01-31,CUST015,Toaster,Home & Kitchen,1,29.99,29.99,PayPal,West
+1018,2024-02-01,CUST008,Jeans,Clothing,2,39.99,79.98,Credit Card,Northeast
+1019,2024-02-02,CUST016,Office Printer,Office,1,149.99,149.99,Credit Card,South
+1020,2024-02-03,CUST017,Fitness Tracker,Electronics,1,79.99,79.99,PayPal,West
