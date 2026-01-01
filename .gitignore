@@ -61,7 +61,7 @@ Thumbs.db
 # Ignore virtual environment
 pandas_env/
 
-# Ignore CSV data (if sensitive)
+# Ignore CSV data
 users_data.csv
 
 # Ignore Jupyter notebook checkpoints
