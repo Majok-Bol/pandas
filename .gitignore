@@ -58,3 +58,11 @@ build/
 # =====================================
 .DS_Store
 Thumbs.db
+# Ignore virtual environment
+pandas_env/
+
+# Ignore CSV data (if sensitive)
+users_data.csv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
